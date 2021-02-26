@@ -5,3 +5,9 @@ dnspython
 requests
 colorama==0.3.7
 colored
+argparse
+requests
+datetime
+ConfigParser
+secure-smtplib
+netaddr
